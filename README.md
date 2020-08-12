@@ -44,7 +44,7 @@ python sgtn.py data/coco --image-size 448 --workers 8 --batch-size 32 --lr 0.03 
 
 ```
 @inproceedings{Vu:ACMMM:2020,
-	author = {Vu, Xuan-Son and Le, Duc-Trong and Edlund, Christoffer and Jiang, Lili and Nguyen D., Hoang},
+	author = {Vu, Xuan-Son and Le, Duc-Trong and Edlund, Christoffer and Jiang, Lili and Nguyen, Hoang D.},
 	title = {Privacy-Preserving Visual Content Tagging using Graph Transformer Networks},
 	booktitle = {ACM International Conference on Multimedia},
 	series = {ACM MM '20},
