@@ -8,7 +8,6 @@ Please, install the following packages
 - torchnet
 - torchvision
 - tqdm
-- networkx
 
 ### Download best checkpoints
 - SGTN on MS-COCO - checkpoint/coco/SGTN_N_86.6440.pth.tar ([Dropbox](https://www.dropbox.com/s/asptspod6ddwrnl/SGTN_N_86.6440.pth.tar))
