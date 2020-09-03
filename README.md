@@ -10,8 +10,8 @@ Please, install the following packages
 - tqdm
 
 ### Download best checkpoints
-- SGTN on MS-COCO - checkpoint/coco/SGTN_N_86.6440.pth.tar ([Dropbox](https://www.dropbox.com/s/asptspod6ddwrnl/SGTN_N_86.6440.pth.tar))
-- SGTN on PP-MS-COCO - checkpoint/coco/SGTN_A_85.5768.pth.tar ([Dropbox](https://www.dropbox.com/s/rw1ynhguldaorlz/SGTN_A_85.5768.pth.tar))
+- SGTN on MS-COCO - checkpoint/coco/SGTN_N_86.6440.pth.tar ([GDrive](https://drive.google.com/file/d/1kksQ0NGp38XHC5_ZoRinj2E8a6tTyb4Q/view?usp=sharing))
+- SGTN on PP-MS-COCO - checkpoint/coco/SGTN_A_85.5768.pth.tar ([GDrive](https://drive.google.com/file/d/11O3Dkbtex4cT-u-MKj5sZkO4DaLO5Gwa/view?usp=sharing))
 
 ### Performance
 
