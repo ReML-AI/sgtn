@@ -33,7 +33,7 @@ PP denotes the use of anonymised dataset.
 
 </div>
 
-### TGCN on COCO
+### SGTN on COCO
 
 ```sh
 python sgtn.py data/coco --image-size 448 --workers 8 --batch-size 32 --lr 0.03 --learning-rate-decay 0.1 --epoch_step 80 --embedding data/coco/coco_glove_word2vec.pkl --adj_dd_threshold 0.4 --device_ids 0
